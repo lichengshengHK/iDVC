@@ -1,4 +1,4 @@
-# FastDVC
+# DVC
 Digital Volume Correlation GUI Based on Matlab2018b.
 It is free to use for personal or reaserch.
 
