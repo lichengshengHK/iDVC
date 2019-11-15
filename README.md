@@ -10,6 +10,6 @@ retrieve password：midy.
 If you could not open this link, you could send me Email: lichengsheng@outlook.com or 1964977182@qq.com;
 中国朋友可以直接发qq邮箱，out邮箱有传输文件大小限制25M.
 
-After install FastDVC, please send your Host name of PC and cpuID, then you can send you the install password.
+After install FastDVC, please send your Host name of PC and cpuID, then you will sended a password.
 
-I real sorry for my English, maybe the tutorials's English are very pool. And I will  try my best to update the User Guide!
+I real sorry for my English, maybe the tutorials's English very bad. And I will  try my best to update the User Guide!
