@@ -13,3 +13,7 @@ If you could not open this link, you could send me Email: lichengsheng@outlook.c
 After install FastDVC, please send your Host name of PC and cpuID, then you will sended a password.
 
 I real sorry for my English, maybe the tutorials's English very bad. And I will  try my best to update the User Guide!
+
+A paper about the improved DVC algorithm have sent to Zeondo (https://zenodo.org/record/3600641#.XhXmUe7iv_U) and ResearchGate, and DOI:10.5281/zenodo.3600641.
+
+FastDVC MTALAB code 只有基本功能，但是算法实现过程没有变，很多优化细节及针对大数据的分块功能并没有添加进去，但完整功能全部在在FastDVC.exe中。源代码仅供学术及交流，非常欢迎在此基础上做任何有益的修改。
