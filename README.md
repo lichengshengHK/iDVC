@@ -19,4 +19,4 @@ The cited articals:
 
 There most have a free key.mat (license) to open the iDVC.
 
-The iDV-try.exe do not need license, but can not save any results and only to try the pre analysis.
+The iDVC-try.exe do not need license, but can not save any results and only to try the pre analysis.
