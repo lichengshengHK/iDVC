@@ -22,3 +22,7 @@ There most have a free key.mat (license) to open the iDVC.
 The iDVC-try.exe do not need license, but can not save any results and only to try the pre analysis.
 
 Can't update the latest iDVC, if you want to use this, please connect me!
+
+chinese:中文视频教程
+链接：https://pan.baidu.com/s/1snzvRCiitvxGJWYiHyKpDg 
+提取码：hulx 
