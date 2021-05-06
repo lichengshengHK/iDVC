@@ -10,6 +10,7 @@ The cited articals:
 2. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, https://doi.org/10.1016/j.mechmat.2020.103646.
 
 There most have a free key.mat (license) to open the iDVC.
+iDVC-2021-5-3增加不规则区域计算功能，但需要更新密钥
 
 The iDVC-try.exe do not need license, but can not save any results and only to try the pre analysis.
 
