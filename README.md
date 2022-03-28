@@ -18,6 +18,13 @@ Can't update the latest iDVC, if you want to use this, please connect me!
 
 chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
+examples
+
+![等效应变-剖面](https://user-images.githubusercontent.com/47877456/160393878-903c0703-88a5-4df1-bcc9-16adf88e7f6d.gif)
+
+![等效应变-v](https://user-images.githubusercontent.com/47877456/160393891-2060213e-9613-42f8-b4fc-18da58dafee9.gif)
+
+
 更新日志：
 iDVC-2021-5-3增加不规则区域计算功能，但需要更新密钥
 
