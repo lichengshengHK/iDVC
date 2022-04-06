@@ -16,6 +16,7 @@ The iDVC-try.exe do not need license, but can not save any results and only to t
 chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
 更新日志（Chinese）：
+
 iDVC-2021-5-3增加不规则区域计算功能，但需要更新密钥
 
 iDVC-20220306，增加软件的异常处理能力，提高结果的稳定性，特别是对于岩土材料的较差散斑质量
