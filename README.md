@@ -1,7 +1,7 @@
 # DVC
 Digital Volume Correlation GUI Based on Matlab2019b.
 
-It is free to use for personal or reaserch.
+It is free for reaserch.
 
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
