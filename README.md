@@ -17,9 +17,9 @@ chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
 更新日志（Chinese）：
 
-1）iDVC-2021-5-3，增加不规则区域计算功能，但需要更新密钥
+1. iDVC-2021-5-3，增加不规则区域计算功能，但需要更新密钥
 
-2）iDVC-20220306，增加软件的异常处理能力，提高结果稳定性，特别是对于岩土材料较差散斑质量情况
+2. iDVC-20220306，增加软件的异常处理能力，提高结果稳定性，特别是对于岩土材料较差散斑质量情况
 
 Examples，triaxial shear test of granite residual soil
 
