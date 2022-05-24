@@ -22,7 +22,7 @@ chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
 2. iDVC-20220306，增加软件的异常处理能力，提高结果稳定性，特别是对于岩土材料较差散斑质量情况
 
-3. 即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的裂隙分类与定量分析模块
+3. 即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块
 
 Examples，triaxial shear test of granite residual soil
 
