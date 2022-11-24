@@ -8,7 +8,7 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 The cited articals:
 1. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, https://doi.org/10.1088/1361-6501/ab85b0.
 2. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, https://doi.org/10.1016/j.mechmat.2020.103646.
-3. Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, https://doi.org/10.1016/j.jrmge.2021.12.028 (裂隙分类中文建议：湮灭型、新生型、孤传型、拆分型、组合型、复合型裂隙）
+3. Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, https://doi.org/10.1016/j.jrmge.2021.12.028 (裂隙分类中文建议：湮灭型、新生型、继承型、拆分型、组合型、复合型裂隙）
 
 There need a free key.mat (license) to open the iDVC.
 
