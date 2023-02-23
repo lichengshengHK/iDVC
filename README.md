@@ -36,6 +36,4 @@ Examples，triaxial shear test of granite residual soil
 
 ![等效应变-v](https://user-images.githubusercontent.com/47877456/160393891-2060213e-9613-42f8-b4fc-18da58dafee9.gif)
 
-
-
-
+![Gif_86](https://user-images.githubusercontent.com/47877456/220809748-63c34d92-e65c-4154-9a5e-78269f1e67d5.gif)
