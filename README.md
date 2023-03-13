@@ -1,4 +1,8 @@
-# DVC
+# iDVC
+
+![iDVC](https://user-images.githubusercontent.com/47877456/224691425-e5bd7f66-a823-4be8-8e0f-ca65b8c1ca97.jpg)
+
+
 Digital Volume Correlation GUI Based on Matlab2019b.
 
 It is free for reaserch.
