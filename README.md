@@ -30,7 +30,7 @@ chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
 4. iDVC-20230223，更改软件启动与显示界面，功能模块更加清晰
 
-5. 即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块
+......即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块
 
 Examples，triaxial shear test of granite residual soil
 
