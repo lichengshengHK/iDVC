@@ -30,7 +30,7 @@ chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
 4. iDVC-20230223，更改软件启动与显示界面，功能模块更加清晰
 
-5. iDVC-20230319, 修正已知bug
+5. iDVC-20230331, 修正已知bug
 
 ......即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块
 
