@@ -1,6 +1,7 @@
 # iDVC
 
-![iDVC](https://user-images.githubusercontent.com/47877456/224691425-e5bd7f66-a823-4be8-8e0f-ca65b8c1ca97.jpg)
+![iDVC](https://github.com/lichengshengHK/iDVC/assets/47877456/3c0b58b6-100f-4a8b-82e2-875b209a0bd6)
+
 
 
 Digital Volume Correlation GUI Based on Matlab2019b.
@@ -32,7 +33,9 @@ chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
 5. iDVC-20230331, 修正已知bug
 
-......即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块
+6. iDVC-20230611, 修正已知bug
+
+......即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块，二维功能请使用FreeDIC（https://github.com/lichengshengHK/FreeDIC)
 
 Examples，triaxial shear test of granite residual soil
 
