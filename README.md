@@ -35,6 +35,8 @@ chinese:中文视频教程：https://b23.tv/JiHSnqi (b站）
 
 6. iDVC-20230611, 修正已知bug
 
+......即将上线，基于CT扫描的细观结构面网格重构模块。例如，重构混凝土或混粒土中的颗粒表面网格
+
 ......即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块，二维功能请使用FreeDIC（https://github.com/lichengshengHK/FreeDIC)
 
 Examples，triaxial shear test of granite residual soil
