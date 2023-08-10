@@ -19,7 +19,7 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 4. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
 
 
-There needs a free key.mat (license) to open the iDVC.
+There needs a free license.mat (license) to open the iDVC.
 
 中文视频教程：https://b23.tv/JiHSnqi (b站）
 
@@ -39,9 +39,7 @@ There needs a free key.mat (license) to open the iDVC.
 
 7. iDVC简明教程-20230725，教程修订
 
-......即将上线，基于CT扫描的细观结构面网格重构模块。例如，重构混凝土或混粒土中的颗粒表面网格
-
-......即将上线基于论文《Evolution of cracks in the shear bands of granite residual soil》的三维细观裂隙分类与定量分析模块. 二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)
+基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)
 
 Example: granite residual soil，花岗岩残积土
 
@@ -51,4 +49,5 @@ Example: granite residual soil，花岗岩残积土
 
 ![Gif_86](https://user-images.githubusercontent.com/47877456/220809748-63c34d92-e65c-4154-9a5e-78269f1e67d5.gif)
 
-![image](https://github.com/lichengshengHK/iDVC/assets/47877456/a22e11cf-3150-4389-9b6f-68c15b9b0af2)
+![网格模型](https://github.com/lichengshengHK/iDVC/assets/47877456/b9e02f67-6c54-4ad1-80ae-135630cba4c4)
+
