@@ -1,4 +1,4 @@
-# iDVC (inspire digital volume correlation)
+# iDVC (inspire digital volume correlation)@黎澄生
 
 ![iDVC](https://github.com/lichengshengHK/iDVC/assets/47877456/3c0b58b6-100f-4a8b-82e2-875b209a0bd6)
 
