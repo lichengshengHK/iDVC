@@ -16,7 +16,9 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
    
 3. Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, https://doi.org/10.1016/j.jrmge.2021.12.028 (裂隙分类的中文建议：湮灭型、新生型、继承型、拆分型、组合型、复合型裂隙）
 
-4. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
+4. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，https://doi.org/10.16285/j.rsm.2023.0713
+
+5. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
 
 
 There needs a free license.mat (license) to open the iDVC.
