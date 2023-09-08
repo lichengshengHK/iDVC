@@ -41,6 +41,8 @@ There needs a free license.mat (license) to open the iDVC.
 
 7. iDVC简明教程-20230725，教程修订
 
+8. iDVC-20230908,修正预处理模块bug，优化功能；优化非计算区域的标记功能。
+
 基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)
 
 Example: granite residual soil，花岗岩残积土
