@@ -18,7 +18,9 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
 4. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，https://doi.org/10.16285/j.rsm.2023.0713
 
-5. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
+5. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，https://doi.org/ 10.16285/j.rsm.2022.1732
+
+6. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
 
 
 There needs a free license.mat (license) to open the iDVC.
