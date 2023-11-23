@@ -22,6 +22,8 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
 6. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
 
+7. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
+
 
 There needs a free license.mat (license) to open the iDVC.
 
