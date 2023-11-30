@@ -47,6 +47,8 @@ There needs a free license.mat (license) to open the iDVC.
 
 8. iDVC-20230909,修正预处理模块bug，优化功能；优化非计算区域的标记功能。
 
+9. 2023-11-30，复杂大变形精度优化算法。服务更新：若在使用iDVC无法满足“复杂-大变形”精度要求，比如，试验材料具有较强塑性特征、位移场数值差超过400体素以上等情况，现有的精度无法满足，可以通过邮件、QQ与我联系
+
 基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)
 
 Example: granite residual soil，花岗岩残积土
