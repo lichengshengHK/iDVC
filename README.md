@@ -54,7 +54,7 @@ Need a free license.mat (license) to open the iDVC.
 
 Example: granite residual soil，花岗岩残积土
 
-![三轴剪切重构](https://user-images.githubusercontent.com/47877456/160394417-a98031dc-8157-4d32-b3b2-cccef7704d2a.gif)
+![Gif_321](https://github.com/lichengshengHK/iDVC/assets/47877456/a524f233-6b26-425b-8aa2-39042b479a5b)
 
 ![等效应变-剖面](https://user-images.githubusercontent.com/47877456/160393878-903c0703-88a5-4df1-bcc9-16adf88e7f6d.gif)
 
