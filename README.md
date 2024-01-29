@@ -47,7 +47,7 @@ Need a free license.mat (license) to open the iDVC.
 
 8. iDVC-20230909,修正预处理模块bug，优化功能；优化非计算区域的标记功能。
 
-9. 2023-11-30，复杂-大变形精度优化算法（还处于内测阶段）。若使用iDVC无法满足“复杂-大变形”精度要求，材料的散斑质量较差（比如岩土材料）、试验材料具有较强塑性特征、位移场数值差超过400体素以上等情况，现有的精度无法满足，可以通过邮件、QQ与我联系
+9. 2023-11-30，复杂-大变形精度优化算法（还处于内测阶段）。若使用iDVC无法满足“复杂-大变形”精度要求，材料的散斑质量较差（比如岩土材料）、试验材料具有较强塑性特征、位移场数值差悬殊等情况，现有的精度无法满足，可以通过邮件、QQ联系
 
 10. iDVC-20240110，修正预处理模块的已知bug
     
@@ -58,9 +58,9 @@ Example: granite residual soil，花岗岩残积土
 
 ![Gif_321](https://github.com/lichengshengHK/iDVC/assets/47877456/a524f233-6b26-425b-8aa2-39042b479a5b)
 
+![裂隙分类](https://github.com/lichengshengHK/iDVC/assets/47877456/ac0ec53f-6b7c-47d8-9259-525905e5e595)
+
 ![等效应变-剖面](https://user-images.githubusercontent.com/47877456/160393878-903c0703-88a5-4df1-bcc9-16adf88e7f6d.gif)
 
 ![Gif_86](https://user-images.githubusercontent.com/47877456/220809748-63c34d92-e65c-4154-9a5e-78269f1e67d5.gif)
-
-![裂隙分类](https://github.com/lichengshengHK/iDVC/assets/47877456/ac0ec53f-6b7c-47d8-9259-525905e5e595)
 
