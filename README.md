@@ -4,7 +4,7 @@
 
 Based on Matlab-2019b.
 
-It is free for research. 仅用于科研使用
+It is free for research. 仅用于科研使用，若使用iDVC，请注明出处。
 
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
