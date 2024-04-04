@@ -29,7 +29,7 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
 Need a free license.mat (license) to open the iDVC.
 
-中文视频教程：https://b23.tv/JiHSnqi (b站）
+中文视频教程：“数字图像测量” (b站）
 
 更新日志（Chinese）：
 
