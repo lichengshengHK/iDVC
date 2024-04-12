@@ -27,7 +27,7 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 7. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
 
 
-Need a free license.mat (license) to open the iDVC.
+Need a free license.mat (license) to open the iDVC.（填写申请表格里面的相关信息，发送邮箱19649771822@qq.com）
 
 中文视频教程：“数字图像测量” (b站）
 
