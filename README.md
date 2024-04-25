@@ -6,7 +6,7 @@ http://dx.doi.org/10.13140/RG.2.2.15089.66407
 
 Based on Matlab-2019b.
 
-It is free for research. 仅用于科研使用，若使用iDVC，请注明出处。
+It is free for research. 仅用于科研使用，若使用iDVC，请注明出处或引用相关论文。
 
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
@@ -49,6 +49,10 @@ Example: granite residual soil，花岗岩残积土
 
 ![等效应变-剖面](https://user-images.githubusercontent.com/47877456/160393878-903c0703-88a5-4df1-bcc9-16adf88e7f6d.gif)
 
+![Gif_86](https://user-images.githubusercontent.com/47877456/220809748-63c34d92-e65c-4154-9a5e-78269f1e67d5.gif)
+
+
+
 
 基于iDVC的相关论文:
 
@@ -67,8 +71,3 @@ Example: granite residual soil，花岗岩残积土
 7. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
 
 8. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
-
-
-
-![Gif_86](https://user-images.githubusercontent.com/47877456/220809748-63c34d92-e65c-4154-9a5e-78269f1e67d5.gif)
-
