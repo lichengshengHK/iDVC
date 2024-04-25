@@ -10,24 +10,6 @@ It is free for research. 仅用于科研使用，若使用iDVC，请注明出处
 
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
-基于iDVC的相关论文:
-
-1. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, https://doi.org/10.1088/1361-6501/ab85b0.
-
-2. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, https://doi.org/10.1016/j.enggeo.2024.107505
-   
-3. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, https://doi.org/10.1016/j.mechmat.2020.103646.
-   
-4. Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, https://doi.org/10.1016/j.jrmge.2021.12.028 
-
-5. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，https://doi.org/10.16285/j.rsm.2023.0713
-
-6. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，https://doi.org/10.16285/j.rsm.2022.1732
-
-7. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
-
-8. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
-
 
 Need a free license.mat (license) to open the iDVC.（填写申请表格里面的相关信息，发送邮箱19649771822@qq.com）
 
@@ -66,6 +48,27 @@ Example: granite residual soil，花岗岩残积土
 ![裂隙分类](https://github.com/lichengshengHK/iDVC/assets/47877456/ac0ec53f-6b7c-47d8-9259-525905e5e595)
 
 ![等效应变-剖面](https://user-images.githubusercontent.com/47877456/160393878-903c0703-88a5-4df1-bcc9-16adf88e7f6d.gif)
+
+
+基于iDVC的相关论文:
+
+1. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, https://doi.org/10.1088/1361-6501/ab85b0.
+
+2. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, https://doi.org/10.1016/j.enggeo.2024.107505
+   
+3. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, https://doi.org/10.1016/j.mechmat.2020.103646.
+   
+4. Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, https://doi.org/10.1016/j.jrmge.2021.12.028 
+
+5. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，https://doi.org/10.16285/j.rsm.2023.0713
+
+6. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，https://doi.org/10.16285/j.rsm.2022.1732
+
+7. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
+
+8. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
+
+
 
 ![Gif_86](https://user-images.githubusercontent.com/47877456/220809748-63c34d92-e65c-4154-9a5e-78269f1e67d5.gif)
 
