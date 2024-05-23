@@ -36,6 +36,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 9. 2023-11-30，复杂-大变形精度优化算法（还处于内测阶段）
     
 10. iDVC-20240110，修正预处理模块的已知bug
+
+11. iDVC-20240523，修复已知bug
     
 
 基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)。
