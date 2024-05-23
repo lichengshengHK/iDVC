@@ -1,4 +1,4 @@
-# iDVC (inspire digital volume correlation)@黎澄生
+# iDVC (inspire Digital Volume Correlation)@黎澄生
 
 http://dx.doi.org/10.13140/RG.2.2.15089.66407
 
