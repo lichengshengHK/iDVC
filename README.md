@@ -4,6 +4,9 @@ http://dx.doi.org/10.13140/RG.2.2.15089.66407
 
 ![iDVC](https://github.com/lichengshengHK/iDVC/assets/47877456/3c0b58b6-100f-4a8b-82e2-875b209a0bd6)
 
+![图片2](https://github.com/lichengshengHK/iDVC/assets/47877456/a31e7699-79c7-40f2-b4cb-0bde3b50da1e)
+
+
 Based on Matlab-2019b.
 
 It is free for research. 仅用于科研使用，若使用iDVC，请注明出处或引用相关论文。
@@ -43,23 +46,6 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)。
 若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
 
-Example: granite residual soil，花岗岩残积土
-
-![sample](https://github.com/lichengshengHK/iDVC/assets/47877456/8e30b664-9c16-4d71-ac8a-a3897cd8e34b)
-
-![应变场](https://github.com/lichengshengHK/iDVC/assets/47877456/43a2d105-da65-499b-9d63-451cff7e16fc)
-
-![剪切带](https://github.com/lichengshengHK/iDVC/assets/47877456/b5f825c8-e5d7-43f5-8f07-240f6ebafffa)
-
-![裂隙分类](https://github.com/lichengshengHK/iDVC/assets/47877456/ac0ec53f-6b7c-47d8-9259-525905e5e595)
-
-![等效应变-剖面](https://user-images.githubusercontent.com/47877456/160393878-903c0703-88a5-4df1-bcc9-16adf88e7f6d.gif)
-
-
-
-
-
-
 基于iDVC的相关论文:
 
 1. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, https://doi.org/10.1088/1361-6501/ab85b0.
@@ -77,3 +63,19 @@ Example: granite residual soil，花岗岩残积土
 7. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
 
 8. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
+
+
+
+Example: granite residual soil，花岗岩残积土
+
+![sample](https://github.com/lichengshengHK/iDVC/assets/47877456/7fcb9955-cd40-429a-b762-5df5cd5b43cb)
+
+![应变场](https://github.com/lichengshengHK/iDVC/assets/47877456/3a062237-9859-4ece-a95b-0a9c9eaef7cf)
+
+![剪切带](https://github.com/lichengshengHK/iDVC/assets/47877456/ad897103-89ff-4229-bbcd-e08f19b2410b)
+
+![裂隙分类](https://github.com/lichengshengHK/iDVC/assets/47877456/ac0ec53f-6b7c-47d8-9259-525905e5e595)
+
+
+
+
