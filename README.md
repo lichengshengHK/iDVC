@@ -2,7 +2,6 @@
 
 http://dx.doi.org/10.13140/RG.2.2.15089.66407
 
-![iDVC](https://github.com/lichengshengHK/iDVC/assets/47877456/3c0b58b6-100f-4a8b-82e2-875b209a0bd6)
 
 ![图片2](https://github.com/lichengshengHK/iDVC/assets/47877456/cea10e67-6d80-40c2-98bd-532a62192baa)
 
@@ -14,10 +13,15 @@ It is free for research. 仅用于科研使用，若使用iDVC，请注明出处
 
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
-
 Need a free license.mat (license) to open the iDVC.（填写申请表格里面的相关信息，发送邮箱19649771822@qq.com）
 
 中文视频教程：“数字图像测量” (b站）
+
+基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)。
+若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
+
+
+
 
 更新日志（Chinese）：
 
@@ -44,8 +48,6 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 11. iDVC-20240523，修复已知bug
     
 
-基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)。
-若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
 
 基于iDVC的相关论文:
 
