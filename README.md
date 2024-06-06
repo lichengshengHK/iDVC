@@ -17,7 +17,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 中文视频教程：“数字图像测量” (b站）
 
-基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC（https://github.com/lichengshengHK/FreeDIC)。
+基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC
 若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
 
 
