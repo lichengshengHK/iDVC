@@ -46,6 +46,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 10. iDVC-20240110，修正预处理模块的已知bug
 
 11. iDVC-20240523，修复已知bug
+
+12. iDVC-20240619，修正已知bug，提高运行稳定性
     
 
 
