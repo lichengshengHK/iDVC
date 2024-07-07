@@ -81,33 +81,3 @@ Example: granite residual soil，花岗岩残积土
 
 ![裂隙分类](https://github.com/lichengshengHK/iDVC/assets/47877456/ac0ec53f-6b7c-47d8-9259-525905e5e595)
 
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Visitor Counter</title>
-</head>
-<body>
-    <h1>Visitor Counter</h1>
-    <p>Number of visitors: <span id="visitorCount">0</span></p>
- 
-    <script>
-        // 使用cookies追踪访问者
-        if (!document.cookie.split(';').some(function(cookie) {
-            return cookie.trim().startsWith('visited=true')
-        })) {
-            // 没有找到cookie，计数器增加
-            let visitorCount = parseInt(document.getElementById('visitorCount').innerText, 10) + 1;
-            document.getElementById('visitorCount').innerText = visitorCount.toString();
- 
-            // 设置cookie，以便浏览器不再增加计数
-            document.cookie = "visited=true; max-age=31536000"; // 设置cookie过期时间为一年（31536000秒）
-        }
-    </script>
-</body>
-</html>
-
-
