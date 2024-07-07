@@ -79,5 +79,10 @@ Example: granite residual soil，花岗岩残积土
 
 ![剪切带](https://github.com/lichengshengHK/iDVC/assets/47877456/ad897103-89ff-4229-bbcd-e08f19b2410b)
 
+![图片1](https://github.com/lichengshengHK/iDVC/assets/47877456/f8188b83-d12c-43bb-a7c7-53a0ae754cf4)
+
+
+
+
 ![裂隙分类](https://github.com/lichengshengHK/iDVC/assets/47877456/ac0ec53f-6b7c-47d8-9259-525905e5e595)
 
