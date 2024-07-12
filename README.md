@@ -18,6 +18,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 中文视频教程：“数字图像测量” (b站）
 
 基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC
+
 若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
 
 
@@ -69,7 +70,9 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 8. Li Chengsheng, Zhang Bingxin, et al. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, 2023, 20(11): 3423-3436. https://doi.org/10.1007/s11629-023-8159-6
 
+软件界面
 
+![1](https://github.com/user-attachments/assets/cbf231fc-d424-4493-b51d-5a73cef6c0f0)
 
 Example: granite residual soil，花岗岩残积土
 
