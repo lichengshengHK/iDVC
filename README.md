@@ -49,6 +49,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 11. iDVC-20240523，修复已知bug
 
 12. iDVC-20240619，修正已知bug，提高运行稳定性
+
+13. iDVC-20240729，调整软件界面，修正已知bug
     
 
 
@@ -72,7 +74,9 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 软件界面
 
-![1](https://github.com/user-attachments/assets/cbf231fc-d424-4493-b51d-5a73cef6c0f0)
+![屏幕截图 2024-07-29 180436](https://github.com/user-attachments/assets/b53141fe-571f-4d9a-a9b8-08355603efdc)
+
+
 
 Example: granite residual soil，花岗岩残积土
 
