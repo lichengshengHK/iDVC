@@ -51,6 +51,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 12. iDVC-20240619，修正已知bug，提高运行稳定性
 
 13. iDVC-20240729，调整软件界面，修正已知bug
+
+14. iDVC-20240730，调整软件启动界面与license验证，使用更便捷，更新对应简明教程
     
 
 
