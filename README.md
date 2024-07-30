@@ -76,7 +76,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 软件界面
 
-![屏幕截图 2024-07-29 180436](https://github.com/user-attachments/assets/b53141fe-571f-4d9a-a9b8-08355603efdc)
+![屏幕截图 2024-07-30 225156](https://github.com/user-attachments/assets/5266ab60-7bfb-4f28-a4e3-c96f2a382af2)
 
 
 
