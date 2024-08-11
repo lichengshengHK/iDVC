@@ -66,7 +66,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
    
 3. Chengsheng Li, Lingwei Kong, et al. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, 2020, 151:103646. https://doi.org/10.1016/j.mechmat.2020.103646.
    
-4. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028 
+4. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028 （次生裂隙识别与分类方法）
 
 5. 黎澄生, 张炳鑫, 刘智军. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，2023, 44(10):2879-2888. https://doi.org/10.16285/j.rsm.2023.0713
 
