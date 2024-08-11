@@ -1,4 +1,4 @@
-# iDVC (inspire Digital Volume Correlation)@黎澄生
+# iDVC (inspire Digital Volume Correlation) @黎澄生
 
 http://dx.doi.org/10.13140/RG.2.2.15089.66407
 
@@ -9,7 +9,9 @@ http://dx.doi.org/10.13140/RG.2.2.15089.66407
 
 Based on Matlab-2019b.
 
-It is free for research. 仅用于科研使用，若使用iDVC，请注明出处或引用相关论文。
+It is free for research. 仅用于科研使用
+
+若使用iDVC辅助分析，请在文中注明使用iDVC。
 
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
@@ -56,7 +58,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
     
 
 
-基于iDVC的相关论文:
+基于iDVC发表的相关论文:
 
 1. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.
 
@@ -80,7 +82,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 
 
-Example: granite residual soil，花岗岩残积土
+Example: granite residual soil，花岗岩残积土相关试验研究
 
 ![sample](https://github.com/lichengshengHK/iDVC/assets/47877456/7fcb9955-cd40-429a-b762-5df5cd5b43cb)
 
