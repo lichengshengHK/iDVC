@@ -78,6 +78,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 8. Li Chengsheng, Zhang Bingxin, et al. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, 2023, 20(11): 3423-3436. https://doi.org/10.1007/s11629-023-8159-6
 
+9. Qinglong Qin, Kai Wu, Qingshan Meng, et al. Investigation of mechanical characterization and damage evolution of coral reef sand concrete using in-situ CT and digital volume correlation techniques, Journal of Building Engineering, 2024, 20: 110480. https://doi.org/10.1016/j.jobe.2024.110480
+
 软件界面
 
 ![屏幕截图 2024-07-30 225156](https://github.com/user-attachments/assets/5266ab60-7bfb-4f28-a4e3-c96f2a382af2)
