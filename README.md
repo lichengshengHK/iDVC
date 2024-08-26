@@ -80,10 +80,13 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 9. Qinglong Qin, Kai Wu, Qingshan Meng, et al. Investigation of mechanical characterization and damage evolution of coral reef sand concrete using in-situ CT and digital volume correlation techniques, Journal of Building Engineering, 2024, 20: 110480. https://doi.org/10.1016/j.jobe.2024.110480
 
-软件界面
+软件主界面
 
 ![屏幕截图 2024-07-30 225156](https://github.com/user-attachments/assets/5266ab60-7bfb-4f28-a4e3-c96f2a382af2)
 
+软件预处理界面
+
+![image](https://github.com/user-attachments/assets/9ca42a40-fc8f-4d06-ae65-e58923af4209)
 
 
 Example: granite residual soil，花岗岩残积土相关试验研究
