@@ -57,6 +57,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 14. iDVC-20240730，调整软件启动界面与license验证，使用更便捷，更新对应简明教程
 
 15. iDVC-20240825，重新设计预处理模块，使用更加有效、便捷，更新对应简明教程
+
+16. iDVC-20240829，小改，增加了对z轴剖面图像size显示，辅助判断执行条件
     
 
 
