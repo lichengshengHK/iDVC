@@ -11,7 +11,7 @@ Based on Matlab-2019b.
 
 It is free for research. 仅用于科研使用
 
-若使用iDVC辅助分析，请在文中注明使用iDVC。
+若使用iDVC辅助分析，请在文中注明使用iDVC（例如，摘要、关键词、段尾、致谢等）。
 
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
