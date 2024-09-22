@@ -17,7 +17,7 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
 Need a free license.mat (license) to open the iDVC.（填写申请表格里面的相关信息，发送邮箱19649771822@qq.com）
 
-中文视频教程：“数字图像测量” (b站）
+中文视频教程：“数字图像测量” (b站，用户名）
 
 基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC
 
