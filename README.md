@@ -61,6 +61,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 16. iDVC-20240829，小改，增加了对z轴剖面图像size显示，辅助判断执行条件
 
 17. iDVC-20240906，修复已知bug
+
+18. iDVC-20240928，修复已知bug
     
 
 
