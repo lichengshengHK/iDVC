@@ -64,7 +64,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 18. iDVC-20240928，修复已知bug
 
-19. 即将上线：基于3D SIFT的高密度位移场初值估算功能模块，极大提高计算速度！
+19. 上线：基于3D SIFT的高密度位移场初值估算功能模块，极大提高计算速度！（https://github.com/lichengshengHK/3DSIFT）
     
 
 
