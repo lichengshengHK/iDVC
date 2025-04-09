@@ -72,23 +72,25 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 1. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.
 
-2. Chengsheng Li, Lingwei Kong, et al. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, 2024, 333: 107505. https://doi.org/10.1016/j.enggeo.2024.107505
+2. Chengsheng Li, Zhijun Liu. A Self-correcting Strategy for the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckle Quality and Complex Large Deformation. Measurement Science and Technology, 2025 36(3): 036011. https://doi.org/10.1088/1361-6501/adb770.
+
+3. Chengsheng Li, Lingwei Kong, et al. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, 2024, 333: 107505. https://doi.org/10.1016/j.enggeo.2024.107505
    
-3. Chengsheng Li, Lingwei Kong, et al. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, 2020, 151:103646. https://doi.org/10.1016/j.mechmat.2020.103646.
+4. Chengsheng Li, Lingwei Kong, et al. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, 2020, 151:103646. https://doi.org/10.1016/j.mechmat.2020.103646.
    
-4. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028 （次生裂隙识别与分类方法）
+5. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028 （次生裂隙识别与分类方法）
 
-5. 黎澄生, 张炳鑫, 刘智军. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，2023, 44(10):2879-2888. https://doi.org/10.16285/j.rsm.2023.0713
+6. 黎澄生, 张炳鑫, 刘智军. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，2023, 44(10):2879-2888. https://doi.org/10.16285/j.rsm.2023.0713
 
-6. 黎澄生, 孔令伟, 等. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，2023, 44(11):3203-3212, 3181. https://doi.org/10.16285/j.rsm.2022.1732
+7. 黎澄生, 孔令伟, 等. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，2023, 44(11):3203-3212, 3181. https://doi.org/10.16285/j.rsm.2022.1732
 
-7. Kai Wu, Qingshan Meng, Chi Wang, Qinglong Qin, Chengsheng Li. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, 2022, 56: 2357-2374. https://doi.org/10.1007/s00603-022-03186-y
+8. Kai Wu, Qingshan Meng, Chi Wang, Qinglong Qin, Chengsheng Li. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, 2022, 56: 2357-2374. https://doi.org/10.1007/s00603-022-03186-y
 
-8. Li Chengsheng, Zhang Bingxin, et al. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, 2023, 20(11): 3423-3436. https://doi.org/10.1007/s11629-023-8159-6
+9. Li Chengsheng, Zhang Bingxin, et al. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, 2023, 20(11): 3423-3436. https://doi.org/10.1007/s11629-023-8159-6
 
-9. Qinglong Qin, Kai Wu, Qingshan Meng, et al. Investigation of mechanical characterization and damage evolution of coral reef sand concrete using in-situ CT and digital volume correlation techniques, Journal of Building Engineering, 2024, 20: 110480. https://doi.org/10.1016/j.jobe.2024.110480
+10. Qinglong Qin, Kai Wu, Qingshan Meng, et al. Investigation of mechanical characterization and damage evolution of coral reef sand concrete using in-situ CT and digital volume correlation techniques, Journal of Building Engineering, 2024, 20: 110480. https://doi.org/10.1016/j.jobe.2024.110480
 
-10. Kai Wu, Qingshan Meng, et al. In-situ CT scan-based analysis of damage evolution of coral reef limestone under cyclic loads, Journal of Building Engineering, 2024, 96: 110596.  https://doi.org/10.1016/j.jobe.2024.110596
+11. Kai Wu, Qingshan Meng, et al. In-situ CT scan-based analysis of damage evolution of coral reef limestone under cyclic loads, Journal of Building Engineering, 2024, 96: 110596.  https://doi.org/10.1016/j.jobe.2024.110596
 
 
 
