@@ -92,6 +92,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 11. Kai Wu, Qingshan Meng, et al. In-situ CT scan-based analysis of damage evolution of coral reef limestone under cyclic loads, Journal of Building Engineering, 2024, 96: 110596.  https://doi.org/10.1016/j.jobe.2024.110596
 
+12. Kejia Qiang, Jinghong Zhang, Bo Han, Jie Li, and Hongliang Zhang. The Mesoscale Structure Evolution of the Carbon Electrode during the Baking Process Based on X-ray Computed Tomography, Energy & Fuels 2025 39 (22), 10526-10536. https://doi.org/10.1021/acs.energyfuels.5c00353
+
 
 
 
