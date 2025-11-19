@@ -67,6 +67,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 19. 上线：基于3D SIFT的高密度位移场初值估算功能模块，极大提高计算速度！（https://github.com/lichengshengHK/3DSIFT）
 
 20. SVD3DSIFT-20251119，(1)提高了对大size体图像的处理能力,(2)计算速度提高了4倍,(3)内置了错误匹配的矫正处理
+
+21. iDVC-20251119,将3D SIFT模块与iDVC结合，提供性能更好的位移场计算。（原Try模块被删除，需要下载SVD3DSIFT）
     
 
 
