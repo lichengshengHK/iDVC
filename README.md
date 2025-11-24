@@ -1,7 +1,5 @@
 # iDVC (inspire Digital Volume Correlation) @黎澄生
 
-http://dx.doi.org/10.13140/RG.2.2.15089.66407
-
 
 ![图片2](https://github.com/lichengshengHK/iDVC/assets/47877456/cea10e67-6d80-40c2-98bd-532a62192baa)
 
@@ -11,19 +9,11 @@ Based on Matlab-2019b.
 
 It is free for research. 仅用于科研使用
 
-若使用iDVC辅助分析，请在文中注明使用iDVC（例如，摘要、关键词、段尾、致谢等）。
-
 The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
 Need a free license.mat (license) to open the iDVC.（填写申请表格里面的相关信息，发送邮箱19649771822@qq.com）
 
 中文视频教程：“数字图像测量” (b站，用户名）
-
-基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC
-
-若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
-
-
 
 
 更新日志（Chinese）：
@@ -64,7 +54,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 18. iDVC-20240928，修复已知bug
 
-19. 上线：基于3D SIFT的高密度位移场初值估算功能模块，极大提高计算速度！（https://github.com/lichengshengHK/3DSIFT）
+19. 上线：基于3D SIFT的高密度位移场初值估算功能模块，特征点匹配能力提高80%以上，极大提高DVC计算速度！（https://github.com/lichengshengHK/3DSIFT）
 
 20. SVD3DSIFT-20251119，(1)提高了对大size体图像的处理能力,(2)计算速度提高了4倍,(3)添加了错误匹配的矫正处理
 
@@ -74,17 +64,17 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 基于iDVC发表的相关论文:
 
-1. Chengsheng Li, Weipeng Li, Zhenjie Huang, Jianghon Qin. Determine the local orientation by matrix singular value decomposition for the 3D SIFT algorithm, Measurement Science and Technology, 2025, 36: 115201. https://doi.org/10.1088/1361-6501/ae18f0
+1. Chengsheng Li, Weipeng Li, Zhenjie Huang, Jianghon Qin. Determine the local orientation by matrix singular value decomposition for the 3D SIFT algorithm, Measurement Science and Technology, 2025, 36: 115201. https://doi.org/10.1088/1361-6501/ae18f0. （3D SIFT算法改进）
 
-2. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.
+2. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.  （预插值加速DVC）
 
-3. Chengsheng Li, Zhijun Liu. A Self-correcting Strategy for the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckle Quality and Complex Large Deformation. Measurement Science and Technology, 2025 36(3): 036011. https://doi.org/10.1088/1361-6501/adb770.
+3. Chengsheng Li, Zhijun Liu. A Self-correcting Strategy for the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckle Quality and Complex Large Deformation. Measurement Science and Technology, 2025 36(3): 036011. https://doi.org/10.1088/1361-6501/adb770.（复杂大变形位移场矫正方法）
 
 4. Chengsheng Li, Lingwei Kong, et al. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, 2024, 333: 107505. https://doi.org/10.1016/j.enggeo.2024.107505
    
 5. Chengsheng Li, Lingwei Kong, et al. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, 2020, 151:103646. https://doi.org/10.1016/j.mechmat.2020.103646.
    
-6. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028 （次生裂隙识别与分类方法）
+6. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028. （提出次生裂隙识别与分类方法）
 
 7. 黎澄生, 张炳鑫, 刘智军. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，2023, 44(10):2879-2888. https://doi.org/10.16285/j.rsm.2023.0713
 
@@ -100,7 +90,11 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 13. Kejia Qiang, Jinghong Zhang, Bo Han, Jie Li, and Hongliang Zhang. The Mesoscale Structure Evolution of the Carbon Electrode during the Baking Process Based on X-ray Computed Tomography, Energy & Fuels 2025 39 (22), 10526-10536. https://doi.org/10.1021/acs.energyfuels.5c00353
 
+若使用iDVC辅助分析，请在文中注明使用iDVC（例如，摘要、关键词、段尾、致谢等）。
 
+基于论文《Evolution of cracks in the shear bands of granite residual soil》的二维功能已开放使用，请参考FreeDIC
+
+若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
 
 
 软件主界面
