@@ -105,6 +105,10 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 ![image](https://github.com/user-attachments/assets/9ca42a40-fc8f-4d06-ae65-e58923af4209)
 
+SVD3DSIFT界面
+
+<img width="437" height="402" alt="SVD3DSIFT" src="https://github.com/user-attachments/assets/3a890ad6-2bf8-4a8d-bd7a-e9d702aa477b" />
+
 
 Example: granite residual soil，花岗岩残积土相关试验研究
 
