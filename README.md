@@ -5,7 +5,7 @@
 
 
 
-Based on Matlab-2019b.
+20251204版本后Based on Matlab-2014b（老版本基于2019b)
 
 It is free for research. 仅用于科研使用
 
@@ -59,6 +59,8 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 20. SVD3DSIFT-20251119，(1)提高了对大size体图像的处理能力,(2)计算速度提高了4倍,(3)添加了错误匹配的矫正处理
 
 21. iDVC-20251119,将3D SIFT模块与iDVC结合，提供性能更好的位移场计算。（原Try模块被删除，需要下载SVD3DSIFT）
+
+22. iDVC-20251204,SVD3DSIFT-20251204, （1）基于matlab 2024b平台，需要安装2024b runtime，更新iDVC密钥；（2）全新UI界面，使用更加便捷；（3）得益于matlab的线程并行技术，该版本及以后极大的降低了对内存的硬件需求。
     
 
 
@@ -97,17 +99,16 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 若有CT三维裂隙分类分析、复杂-大变形计算需求请与开发者邮件联系。
 
 
-软件主界面
+iDVC软件主界面
 
-![屏幕截图 2024-07-30 225156](https://github.com/user-attachments/assets/5266ab60-7bfb-4f28-a4e3-c96f2a382af2)
+<img width="2003" height="1237" alt="iDVC主界面" src="https://github.com/user-attachments/assets/62ab8371-9f4b-439b-b762-ed4dca2bcd83" />
 
-软件预处理界面
 
-![image](https://github.com/user-attachments/assets/9ca42a40-fc8f-4d06-ae65-e58923af4209)
 
 SVD3DSIFT界面
 
-<img width="437" height="402" alt="SVD3DSIFT" src="https://github.com/user-attachments/assets/3a890ad6-2bf8-4a8d-bd7a-e9d702aa477b" />
+<img width="2110" height="1316" alt="3DSIFTSVD主界面" src="https://github.com/user-attachments/assets/d78c9bd9-8b29-4dac-a7cf-82cb48cbf96e" />
+
 
 
 Example: granite residual soil，花岗岩残积土相关试验研究
