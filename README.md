@@ -70,7 +70,7 @@ Need a free license.mat (license) to open the iDVC.（填写申请表格里面�
 
 2. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.  （预插值加速DVC）
 
-3. Chengsheng Li, Zhijun Liu. A Self-correcting Strategy for the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckle Quality and Complex Large Deformation. Measurement Science and Technology, 2025 36(3): 036011. https://doi.org/10.1088/1361-6501/adb770.（复杂大变形位移场矫正方法）
+3. Chengsheng Li, Zhijun Liu. A Self-correcting Strategy for the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckle Quality and Complex Large Deformation. Measurement Science and Technology, 2025 36(3): 036011. https://doi.org/10.1088/1361-6501/adb770. （复杂大变形位移场矫正方法）
 
 4. Chengsheng Li, Lingwei Kong, et al. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, 2024, 333: 107505. https://doi.org/10.1016/j.enggeo.2024.107505
    
