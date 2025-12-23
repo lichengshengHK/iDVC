@@ -13,6 +13,8 @@ The 2D tool : https://github.com/lichengshengHK/FreeDIC
 
 Need a free license.mat (license) to open the iDVC.（填写申请表格里面的相关信息，发送邮箱19649771822@qq.com）
 
+SVDDSIFT无需密钥，直接可运行
+
 中文视频教程：“数字图像测量” (b站，用户名）
 
 
