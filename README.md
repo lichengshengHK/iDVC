@@ -70,29 +70,31 @@ SVDDSIFT无需密钥，直接可运行
 
 1. Chengsheng Li, Weipeng Li, Zhenjie Huang, Jianghon Qin. Determine the local orientation by matrix singular value decomposition for the 3D SIFT algorithm, Measurement Science and Technology, 2025, 36: 115201. https://doi.org/10.1088/1361-6501/ae18f0. （3D SIFT算法改进）
 
-2. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.  （预插值加速DVC）
+2. Chengsheng Li*, Zhenjie Huang, Jianghong Qin, Weipeng Li. Enhancing 3D SIFT deformability by a two-step calculation strategy. Measurement Science and Technology, 2025. https://doi.org/10.1088/1361-6501/ae26b2.（3D2 SIFT方法）
 
-3. Chengsheng Li, Zhijun Liu. A Self-correcting Strategy for the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckle Quality and Complex Large Deformation. Measurement Science and Technology, 2025 36(3): 036011. https://doi.org/10.1088/1361-6501/adb770. （复杂大变形位移场矫正方法）
+3. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.  （预插值加速DVC）
 
-4. Chengsheng Li, Lingwei Kong, et al. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, 2024, 333: 107505. https://doi.org/10.1016/j.enggeo.2024.107505
+4. Chengsheng Li, Zhijun Liu. A Self-correcting Strategy for the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckle Quality and Complex Large Deformation. Measurement Science and Technology, 2025 36(3): 036011. https://doi.org/10.1088/1361-6501/adb770. （复杂大变形位移场矫正方法）
+
+5. Chengsheng Li, Lingwei Kong, et al. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, 2024, 333: 107505. https://doi.org/10.1016/j.enggeo.2024.107505
    
-5. Chengsheng Li, Lingwei Kong, et al. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, 2020, 151:103646. https://doi.org/10.1016/j.mechmat.2020.103646.
+6. Chengsheng Li, Lingwei Kong, et al. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, 2020, 151:103646. https://doi.org/10.1016/j.mechmat.2020.103646.
    
-6. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028. （提出次生裂隙识别与分类方法）
+7. Chengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028. （提出次生裂隙识别与分类方法）
 
-7. 黎澄生, 张炳鑫, 刘智军. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，2023, 44(10):2879-2888. https://doi.org/10.16285/j.rsm.2023.0713
+8. 黎澄生, 张炳鑫, 刘智军. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，2023, 44(10):2879-2888. https://doi.org/10.16285/j.rsm.2023.0713
 
-8. 黎澄生, 孔令伟, 等. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，2023, 44(11):3203-3212, 3181. https://doi.org/10.16285/j.rsm.2022.1732
+9. 黎澄生, 孔令伟, 等. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，2023, 44(11):3203-3212, 3181. https://doi.org/10.16285/j.rsm.2022.1732
 
-9. Kai Wu, Qingshan Meng, Chi Wang, Qinglong Qin, Chengsheng Li. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, 2022, 56: 2357-2374. https://doi.org/10.1007/s00603-022-03186-y
+10. Kai Wu, Qingshan Meng, Chi Wang, Qinglong Qin, Chengsheng Li. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, 2022, 56: 2357-2374. https://doi.org/10.1007/s00603-022-03186-y
 
-10. Li Chengsheng, Zhang Bingxin, et al. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, 2023, 20(11): 3423-3436. https://doi.org/10.1007/s11629-023-8159-6
+11. Li Chengsheng, Zhang Bingxin, et al. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, 2023, 20(11): 3423-3436. https://doi.org/10.1007/s11629-023-8159-6
 
-11. Qinglong Qin, Kai Wu, Qingshan Meng, et al. Investigation of mechanical characterization and damage evolution of coral reef sand concrete using in-situ CT and digital volume correlation techniques, Journal of Building Engineering, 2024, 20: 110480. https://doi.org/10.1016/j.jobe.2024.110480
+12. Qinglong Qin, Kai Wu, Qingshan Meng, et al. Investigation of mechanical characterization and damage evolution of coral reef sand concrete using in-situ CT and digital volume correlation techniques, Journal of Building Engineering, 2024, 20: 110480. https://doi.org/10.1016/j.jobe.2024.110480
 
-12. Kai Wu, Qingshan Meng, et al. In-situ CT scan-based analysis of damage evolution of coral reef limestone under cyclic loads, Journal of Building Engineering, 2024, 96: 110596.  https://doi.org/10.1016/j.jobe.2024.110596
+13. Kai Wu, Qingshan Meng, et al. In-situ CT scan-based analysis of damage evolution of coral reef limestone under cyclic loads, Journal of Building Engineering, 2024, 96: 110596.  https://doi.org/10.1016/j.jobe.2024.110596
 
-13. Kejia Qiang, Jinghong Zhang, Bo Han, Jie Li, and Hongliang Zhang. The Mesoscale Structure Evolution of the Carbon Electrode during the Baking Process Based on X-ray Computed Tomography, Energy & Fuels 2025 39 (22), 10526-10536. https://doi.org/10.1021/acs.energyfuels.5c00353
+14. Kejia Qiang, Jinghong Zhang, Bo Han, Jie Li, and Hongliang Zhang. The Mesoscale Structure Evolution of the Carbon Electrode during the Baking Process Based on X-ray Computed Tomography, Energy & Fuels 2025 39 (22), 10526-10536. https://doi.org/10.1021/acs.energyfuels.5c00353
 
 若使用iDVC辅助分析，请在文中注明使用iDVC（例如，摘要、关键词、段尾、致谢等）。
 
