@@ -109,13 +109,15 @@ SVDDSIFT无需密钥，直接可运行
 
 iDVC软件主界面
 
-<img width="2003" height="1237" alt="iDVC主界面" src="https://github.com/user-attachments/assets/62ab8371-9f4b-439b-b762-ed4dca2bcd83" />
+<img width="2087" height="1562" alt="iDVC主界面" src="https://github.com/user-attachments/assets/abe351c5-4aa1-4bab-a1a9-c3f5be75c2a5" />
+
 
 
 
 SVD3DSIFT界面
 
-<img width="2110" height="1316" alt="3DSIFTSVD主界面" src="https://github.com/user-attachments/assets/d78c9bd9-8b29-4dac-a7cf-82cb48cbf96e" />
+<img width="2033" height="1372" alt="3D SIFT主界面截图" src="https://github.com/user-attachments/assets/e9082def-f80a-4914-842b-579c8477fb50" />
+
 
 
 
