@@ -70,7 +70,7 @@ SVDDSIFT无需密钥，直接可运行
 
 1. Chengsheng Li, Weipeng Li, Zhenjie Huang, Jianghon Qin. Determine the local orientation by matrix singular value decomposition for the 3D SIFT algorithm, Measurement Science and Technology, 2025, 36: 115201. https://doi.org/10.1088/1361-6501/ae18f0. （3D SIFT算法改进）
 
-2. Chengsheng Li, Zhenjie Huang, Jianghong Qin, Weipeng Li. 3D2 SIFT: Enhancing 3D SIFT deformability by a two-step calculation strategy. Measurement Science and Technology, 2025, 37:046005. https://doi.org/10.1088/1361-6501/ae26b2. （3D2 SIFT方法）
+2. Chengsheng Li, Zhenjie Huang, Jianghong Qin, Weipeng Li. 3D2 SIFT: Enhancing 3D SIFT deformability by a two-step calculation strategy. Measurement Science and Technology, 2025, 37: 046005. https://doi.org/10.1088/1361-6501/ae26b2. （3D2 SIFT方法）
 
 3. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.  （预插值加速DVC）
 
